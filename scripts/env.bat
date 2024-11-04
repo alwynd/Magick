@@ -1,0 +1,2 @@
+set ADDITIONAL_ARGS=-perc 50 -minsize 10485760
+echo %ADDITIONAL_ARGS%
